@@ -1,0 +1,13 @@
+# .NET build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# User-specific
+*.user
+*.suo
+
+# Logs
+logs/
